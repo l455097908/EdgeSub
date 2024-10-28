@@ -5,7 +5,7 @@ type RemoteConfig = {
 
 export const RemoteConfigs: RemoteConfig[] = [
     {
-        key: "ACL_默认版",
+        key: "ACL_精简版",
         value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini.ini"
     },
     {
@@ -45,8 +45,8 @@ export const RemoteConfigs: RemoteConfig[] = [
         value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Full_Netflix.ini"
     },
     {
-        key: "ACL_精简版",
-        value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini.ini"
+        key: "ACL_默认版",
+        value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini"
     },
     {
         key: "ACL_去广告精简版",
